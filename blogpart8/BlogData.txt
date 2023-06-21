@@ -1,0 +1,44 @@
+Current Events
+This blog is where people post current events.
+2
+Sue
+Picnic Saturday
+Join us at the park for a picnic on Saturday
+0
+sleepy
+test text
+test
+0
+Movies
+This blog is where people post things about movies.
+2
+Billy
+My Fav Movie
+Star Wars
+0
+Jean
+Movie I despise
+The clock work orange
+0
+Food
+This blog is where people post things about food.
+2
+Bailey
+My fav Pizza
+I love Pizza with extra cheese and onions
+0
+Joe
+Icecream
+I love coffe icecream with chocolate jimies
+0
+Vacation
+This blog is where people post things about vacations.
+2
+Kyle
+Best place to Vacation
+Baniff Canada
+0
+Mary Jo
+Worst Vacation
+Stayed at home
+0
